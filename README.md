@@ -1,4 +1,4 @@
-# 🎮 Ball Pong
+#  Ball Pong
 
 > **Early Access — Project On Hold**
 
@@ -9,8 +9,8 @@ I’m putting this project on hold because I’m not satisfied with **both the c
 
 ---
 
-### 📌 Status
+###  Status
 
-**🚧 On Hold**
-**🎮 Early Access**
-**🐍 Pygame**
+** On Hold**
+** Early Access**
+** Pygame**
